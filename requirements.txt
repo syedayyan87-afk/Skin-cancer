@@ -1,0 +1,6 @@
+streamlit>=1.37
+tensorflow-cpu
+numpy
+pillow
+pandas
+anthropic
